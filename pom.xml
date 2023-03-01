@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~
   ~ Headwind MDM: Open Source Android MDM Software
@@ -69,7 +69,7 @@
 
         <opensource.dist.dir>/Headwind/AndroidKioskWeb/opensource</opensource.dist.dir>
 
-        <glassfish-jersey.version>2.25.1</glassfish-jersey.version>
+        <glassfish-jersey.version>2.38</glassfish-jersey.version>
         <guice-bridge.version>2.6.1</guice-bridge.version>
         
         <lombok.version>1.18.10</lombok.version>
